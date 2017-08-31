@@ -9,14 +9,14 @@
 import Foundation
 
 
-extension String {
+public extension String {
     /** 
     calculate time interval until now
     - Parameters:
         - UTCstr: follows format "yyyy-MM-dd'T'HH:mm:ssZ"
     - returns: 1min ~ ?year, large unit first
     */
-    public func timeUntilNow(UTCstr string: String?) -> String {
+    static func timeUntilNow(UTCstr string: String?) -> String {
         guard let oldTime = string else {
             return "1min"
         }

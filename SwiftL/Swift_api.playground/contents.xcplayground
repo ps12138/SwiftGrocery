@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='JSON Parser'/>
+        <page name='FIleManager'/>
+        <page name='URLRequest URLSession'/>
+        <page name='URL'/>
+        <page name='Protocol'/>
+        <page name='Singleton'/>
+        <page name='Primitive Types'/>
+        <page name='Random issue'/>
+        <page name='Sequence'/>
+        <page name='Optional'/>
+        <page name='Retain Cycle'/>
+        <page name='CALayer'/>
+        <page name='Sort'/>
+        <page name='Hashable Protocol'/>
+        <page name='Sequence Protocol'/>
+        <page name='Collection Protocol'/>
+        <page name='Grand Central Dispatch'/>
+        <page name='Operation OperationQueue'/>
+        <page name='Untitled Page'/>
+        <page name='Block'/>
+        <page name='NotificationCenter'/>
+        <page name='Run time'/>
+        <page name='Tuple'/>
+        <page name='Model Design'/>
+        <page name='NSCopying Copyable Protocol'/>
+        <page name='Lazy Load'/>
+        <page name='AnyClass,  Type, .self'/>
+        <page name='Pass Reference Value'/>
+        <page name='UIColor'/>
+        <page name='Networking POP'/>
+        <page name='Networking POP2'/>
+        <page name='Networking Generics'/>
+        <page name='RLE'/>
+        <page name='nestedStruct'/>
+        <page name='Property observing'/>
+        <page name='F_TELQ'/>
+        <page name='Date Tranform'/>
+    </pages>
+</playground>

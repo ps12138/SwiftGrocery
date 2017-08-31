@@ -1,0 +1,136 @@
+{
+    "lines": [
+              {
+              "name": "Broadway - 7 Avenue Local",
+              "hexcolor": "EE352E",
+              "letter": "1",
+              "desc": "Trains operate between 242 St in the Bronx and South Ferry in Manhattan, most times"
+              },
+              {
+              "name": "7 Avenue Express",
+              "hexcolor": "EE352E",
+              "letter": "2",
+              "desc": "Trains operate between Wakefield-241 St, Bronx, and Flatbush Av-Brooklyn College, Brooklyn, at all times. Trains operate local in Bronx and Brooklyn. Trains operate express in Manhattan except late night when it operates local."
+              },
+              {
+              "name": "7 Avenue Express",
+              "hexcolor": "EE352E",
+              "letter": "3",
+              "desc": "Trains operate between 148 St, 7 Av, Manhattan, and New Lots Av, Brooklyn, at all times except late nights. During late nights, trains operate only in Manhattan between 148 St, 7 Av and Times Square-42 St."
+              },
+              {
+              "name": "Lexington Avenue Express",
+              "hexcolor": "00933C",
+              "letter": "4",
+              "desc": "Trains operate daily between Woodlawn/Jerome Av, Bronx, and Utica Av/Eastern Pkwy, Brooklyn, running express in Manhattan and Brooklyn. During late night and early morning hours, trains runs local in Manhattan and Brooklyn, and extends beyond Utica Av to New Lots/Livonia Avs, Brooklyn."
+              },
+              {
+              "name": "Lexington Avenue Express",
+              "hexcolor": "00933C",
+              "letter": "5",
+              "desc": "Weekdays daytime, most trains operate between either Dyre Av or 238 St-Nereid Av, Bronx, and Flatbush Av-Brooklyn College, Brooklyn. At all other times except during late nights, trains operate between Dyre Av, Bronx, and Bowling Green, Manhattan. During late nights trains operate only in the Bronx between Dyre Av and E 180 St/MorrisPark Av. Customers who ride during late night hours can transfer to 2 service at the E 180 St Station. At all times, trains operate express in Manhattan and Brooklyn. Weekdays, trains in the Bronx operate express from E 180 St to 149 St-3 Av during morning rush hours (from about 6 AM to 9 AM), and from 149 St-3 Av to E 180 St during the evening rush hours (from about 4 PM to 7 PM)."
+              },
+              {
+              "name": "Lexington Avenue Local",
+              "hexcolor": "00933C",
+              "letter": "6",
+              "desc": "Local trains operate between Pelham Bay Park/Bruckner Expwy, Bronx, and Brooklyn Bridge/City Hall, Manhattan, at all times."
+              },
+              {
+              "name": "Flushing Local",
+              "hexcolor": "B933AD",
+              "letter": "7",
+              "desc": "Trains operate between Main St-Flushing, Queens, and 42 St-Times Square, Manhattan, at all times."
+              },
+              {
+              "name": "8 Avenue Express",
+              "hexcolor": "2850AD",
+              "letter": "A",
+              "desc": "Trains operate between Inwood-207 St, Manhattan and Far Rockaway-Mott Avenue, Queens at all times. Also from about 6 AM until about midnight, additional trains operate between Inwood-207 St and Lefferts Boulevard (trains typically alternate between Lefferts Blvd and Far Rockaway). During weekday morning rush hours, special trains, denoted in the schedule by a diamond symbol, operate from Rockaway Park-Beach 116 St, Queens, toward Manhattan. These trains make local stops between Rockaway Park and Broad Channel. Similarly, in the evening rush hour special trains leave Manhattan operating toward Rockaway Park-Beach 116 St, Queens."
+              },
+              {
+              "name": "6 Avenue Express",
+              "hexcolor": "FF6319",
+              "letter": "B",
+              "desc": "Trains operate, weekdays only, between 145 St, Manhattan, and Brighton Beach, Brooklyn at all times except late nights. The route extends to Bedford Park Blvd, Bronx, during rush hours."
+              },
+              {
+              "name": "8 Avenue Local",
+              "hexcolor": "2850AD",
+              "letter": "C",
+              "desc": "Trains operate between 168 St, Manhattan, and Euclid Av, Brooklyn, daily from about 6 AM to 11 PM."
+              },
+              {
+              "name": "6 Avenue Express",
+              "hexcolor": "FF6319",
+              "letter": "D",
+              "desc": "Trains operate, at all times, from 205 Street, Bronx, to Stillwell Avenue, Brooklyn via Central Park West and 6th Avenue in Manhattan, and via the Manhattan Bridge to and from Brooklyn. When in Brooklyn trains operate via 4th Avenue then through Bensonhurst to Coney Island. Trains typically operate local in the Bronx, express in Manhattan, and local in Brooklyn. But please note that Bronx rush hour trains operate express (peak direction ONLY), and Brooklyn trains operate express along the 4th Avenue segment (all times except late nights)."
+              },
+              {
+              "name": "8 Avenue Local",
+              "hexcolor": "2850AD",
+              "letter": "E",
+              "desc": "Trains operate between Jamaica Center (Parsons/Archer), Queens, and World Trade Center, Manhattan, at all times."
+              },
+              {
+              "name": "Queens Blvd Express/ 6 Av Local",
+              "hexcolor": "FF6319",
+              "letter": "F",
+              "desc": "Trains operate at all times between Jamaica, Queens, and Stillwell Av, Brooklyn via the 63 St Connector (serving 21 St-Queensbridge, Roosevelt Island, Lexington Av-63 St, and 57 St-6 Av). F trains operate express along Queens Blvd at all times. Trains do not serve Queens Plaza, 23 St-Ely Av, Lexington Av-53 St and 5 Av-53 St."
+              },
+              {
+              "name": "Brooklyn-Queens Crosstown",
+              "hexcolor": "6CBE45",
+              "letter": "G",
+              "desc": "Trains operate between Court Square, Queens and Church Av, Brooklyn weekdays, and all weekend. Weekday evenings and late nights, trains operate between Forest Hill-71 Av, Queens and Church Av, Brooklyn."
+              },
+              {
+              "name": "42 St Shuttle",
+              "hexcolor": "6D6E71",
+              "letter": "S",
+              "desc": "Operates in Manhattan between Grand Central and Times Square. The shuttle provides a free transfer between 4, 5, 6, and 7 service at Grand Central-42 St and A, C, E, N, Q, R, W, 1, 2, 3, and 7 service at Times Square-42 St. The shuttle runs at all times except during late nights, from about 12 midnight to 6 AM."
+              },
+              {
+              "name": "Nassau St Local",
+              "hexcolor": "996633",
+              "letter": "J",
+              "desc": "Trains operate weekdays between Jamaica Center (Parsons/Archer), Queens, and Broad St, Manhattan. During weekdays, Trains going to Manhattan run express in Brooklyn between Myrtle Av and Marcy Av from about 7 AM to 1 PM and from Manhattan from 1:30 PM and 8 PM. During weekday rush hours, trains provide skip-stop service. Skip-stop service means that some stations are served by J trains, some stations are served by the Z trains, and some stations are served by both J and Z trains. J/Z skip-stop service runs towards Manhattan from about 7 AM to 8:15 AM and from Manhattan from about 4:30 PM to 5:45 PM."
+              },
+              {
+              "name": "14 St-Canarsie Local",
+              "hexcolor": "A7A9AC",
+              "letter": "L",
+              "desc": "Trains operate between 8 Av/14 St, Manhattan, and Rockaway Pkwy/Canarsie, Brooklyn, 24 hours daily."
+              },
+              {
+              "name": "QNS BLVD-6th AVE/ Myrtle Local",
+              "hexcolor": "FF6319",
+              "letter": "M",
+              "desc": "Trains operate between Middle Village-Metropolitan Avenue, Queens and Myrtle Avenue, Brooklyn at all times. Service is extended weekdays (except late nights) Continental Ave, Queens, All trains provide local service."
+              },
+              {
+              "name": "Broadway Express",
+              "hexcolor": "FCCC0A",
+              "letter": "N",
+              "desc": "Trains operate from Ditmars Boulevard, Queens, to Stillwell Avenue, Brooklyn, at all times. N trains in Manhattan operate along Broadway and across the Manhattan Bridge to and from Brooklyn. Trains in Brooklyn operate along 4th Avenue, then through Borough Park to Gravesend. Trains typically operate local in Queens, and either express or local in Manhattan and Brooklyn, depending on the time. Late night trains operate via Whitehall Street, Manhattan. Late night service is local."
+              },
+              {
+              "name": "Broadway Express",
+              "hexcolor": "FCCC0A",
+              "letter": "Q",
+              "desc": "Trains operate between Astoria, Queens, and Stillwell Av, Brooklyn except nights. During late nights trains will operate from 57th Street/7th Avenue, Manhattan, and Stillwell Av, Brooklyn. Trains operate express from 34th St. via Broadway to Canal Street, except late nights when trains operate express 34th to Canal(lower level), cross into Brooklyn via Manhattan Bridge, then operate local to and from Stillwell Av."
+              },
+              {
+              "name": "Broadway Local",
+              "hexcolor": "FCCC0A",
+              "letter": "R",
+              "desc": "Trains operate local between Forest Hills-71 Av, Queens, and 95 St/4 Av, Brooklyn, at all times except late nights. During late nights, trains operate only in Brooklyn between 36 St and 95 St/4 Av."
+              },
+              {
+              "name": "Nassau St Express",
+              "hexcolor": "996633",
+              "letter": "Z",
+              "desc": "During weekday rush hours, J and Z trains provide skip-stop service. Skip-stop service means that some stations are served by J trains, some stations are served by the Z trains, and some stations are served by both J and Z trains. J/Z skip-stop service runs towards Manhattan from about 7 AM to 8:15 AM and from Manhattan from about 4:30 PM to 5:45 PM."
+              }
+              ]
+}
